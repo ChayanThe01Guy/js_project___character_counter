@@ -1,1 +1,1 @@
-# js_project___character_counter
+# Character_Counter
